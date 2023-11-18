@@ -1,7 +1,7 @@
 {
   "name": "releaseproject",
   "version": "1.0.0",
-  "description": "demo",
+  "description": "demoTest",
   "main": "index.js",
   "scripts": {
     "test": "jest",
